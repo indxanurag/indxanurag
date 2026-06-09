@@ -39,7 +39,6 @@
 
 * C
 * C++
-* Java
 * Python
 
 ### Embedded Systems
@@ -58,14 +57,6 @@
 * Mission Planner
 * QGroundControl
 
-### Tools
-
-* Git
-* GitHub
-* KiCad
-* VS Code
-* PlatformIO
-
 ## 📚 Currently Learning
 
 * Advanced Flight Control Systems
@@ -74,11 +65,6 @@
 * ROS
 * AI for Autonomous Systems
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indxanurag\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indxanurag\&layout=compact)
 
 ---
 
